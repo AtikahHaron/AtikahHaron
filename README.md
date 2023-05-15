@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Atikah and I aspire to be a data engineer!
-- 👀 I’m interested in data analytics especially data engineering field
+- 👋 Hi, I’m Atikah and I aspire to be a data engineer
 - 🌱 I’m currently learning SQL, Python and Azure
 - 📫 You can reach me via email: atikahharon@gmail.com
 

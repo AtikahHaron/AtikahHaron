@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Atikah and I aspire to be a data engineer
+- 👋 Hi, I’m Atikah and I am learning to become a data engineer
 - 🌱 I’m currently learning SQL, Python and Azure
 
 <!---

@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Atikah and I am learning to become a data engineer
-- 🌱 I’m currently learning SQL, Python and Azure
+- 👋 Hi, I’m Atikah and I am a data engineer
+- 🌱 Experienced with AWS services and continuously learning new skills
 
 <!---
 AtikahHaron/AtikahHaron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
